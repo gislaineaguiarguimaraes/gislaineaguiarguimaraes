@@ -1,16 +1,34 @@
-### Hi there 👋
+### Salut, je m'appelle Gislaine, je suis en formation pour devenir developpeuse web et mobile 👋
 
-<!--
-**gislaineaguiarguimaraes/gislaineaguiarguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Aujourd'hui je suis à la recherche d'une opportunité d'alternance en tant que développeuse web et mobile
+- 🌱 J'étudie JavaScript pour consolider tout ce que j'ai appris jusqu'ici
+- 💬 Contactez-moi par email gis_guimaraes@hotmail.com
 
-Here are some ideas to get you started:
+<div>
+ 
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=gislaineaguiarguimaraes&show_icons=true&theme=tokyonight"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislaineaguiarguimaraes&theme=tokyonight"/>
+</div>
+  
+<div style="display : inline_block"><br>
+  
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  <img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />        
+          
+</div>
+    
+
+  
+  
+ 
