@@ -1,16 +1,16 @@
 ### Salut, je m'appelle Gislaine, je suis en formation pour devenir developpeuse web et mobile 👋
 
 - 🔭 Aujourd'hui je suis à la recherche d'une opportunité d'alternance en tant que développeuse web et mobile
-- 🌱 J'étudie JavaScript pour consolider tout ce que j'ai appris jusqu'ici
+- 🌱 En ce moment je fais des petits projets personnels pour m'entraîner et consolider tout ce que j'ai appris jusqu'à présent.
 - 💬 Contactez-moi par email gis_guimaraes@hotmail.com
 
 <div>
  
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=gislaineaguiarguimaraes&show_icons=true&theme=tokyonight"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislaineaguiarguimaraes&theme=tokyonight"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislaineaguiarguimaraes&theme=tokyonight&card_width=500"/>
 </div>
   
-<div style="display : inline_block"><br>
+<div style="display: inline_block"><br>
   
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           
@@ -26,6 +26,16 @@
 
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />        
           
+</div>
+
+  ##
+ 
+<div> 
+  
+ <a href="https://discord.gg/wBJN9YXZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gis_guimaraes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gislaine-de-aguiar-guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
     
 
