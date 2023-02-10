@@ -1,4 +1,4 @@
-### Salut, je m'appelle Gislaine, je suis en formation pour devenir developpeuse web et mobile 👋
+### Salut, je m'appelle Gislaine👋
 
 - 🔭 Aujourd'hui je suis à la recherche d'une opportunité d'alternance en tant que développeuse web et mobile
 - 🌱 En ce moment je fais des petits projets personnels pour m'entraîner et consolider tout ce que j'ai appris jusqu'à présent.
@@ -33,7 +33,7 @@
 <div> 
   
  <a href="https://discord.gg/wBJN9YXZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gis_guimaraes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gis_guimaraes@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gislaine-de-aguiar-guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
