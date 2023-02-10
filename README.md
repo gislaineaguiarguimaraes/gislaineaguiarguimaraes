@@ -2,12 +2,13 @@
 
 - 🔭 Aujourd'hui je suis à la recherche d'une opportunité d'alternance en tant que développeuse web et mobile
 - 🌱 En ce moment je fais des petits projets personnels pour m'entraîner et consolider tout ce que j'ai appris jusqu'à présent.
+- 💻 Portfólio https://gislaine-aguiar.com/#portfolio
 - 💬 Contactez-moi par email gis_guimaraes@hotmail.com
 
 <div>
  
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=gislaineaguiarguimaraes&show_icons=true&theme=tokyonight"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislaineaguiarguimaraes&theme=tokyonight&card_width=500"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gislaineaguiarguimaraes&show_icons=true&theme=tokyonight"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislaineaguiarguimaraes&layout=compact&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
